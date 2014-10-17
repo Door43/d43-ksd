@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ksd:home|Door43 (ksd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ksd|d43-ksd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ksd/archive/master.zip|d43-ksd.zip]]
+
+**Recent Changes**
+{{changes>ns = ksd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ksd|Ethnologue data]]
+
